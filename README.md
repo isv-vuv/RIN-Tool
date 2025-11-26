@@ -1,4 +1,4 @@
-# Tool zur Automatisierung von Netzkatgorisierung nach RIN
+# Tool zur Automatisierung der Netzkategorisierung nach RIN
 
 Das in PTV Visum 2024 integrierte Tool zur automatisierten Netzkategorisierung erleichtert die Anwendung der „Richtlinien für integrierte Netzgestaltung“. Es automatisiert wesentliche Schritte, die bei der Verkehrsnetzplanung erforderlich sind, indem es zentrale Orte mit Verkehrsnachfragemodellen verknüpft und die Angebotsqualität der Verbindungen zwischen diesen Orten bewertet.
 
